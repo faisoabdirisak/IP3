@@ -1,6 +1,6 @@
 ### Pitch
 
-## Live link to this project's GitHub Pages.()
+## Live link to this project's GitHub Pages.(https://njo.herokuapp.com/)
 
 ## Table of Content
 
