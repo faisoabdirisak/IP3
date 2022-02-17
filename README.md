@@ -12,3 +12,5 @@
 + [Licence](#Licence)
 + [Authors Info](#contacts)
 
+## Description
+This is a Python-Flask Application that allows users to create one minute pitch. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
