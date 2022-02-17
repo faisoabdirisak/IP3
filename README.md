@@ -34,3 +34,7 @@ This is a Python-Flask Application that allows users to create one minute pitch.
 * Bootsrap
 * HTML
 * CSS
+
+## Licence
+
+MIT License    [MIT](https://choosealicense.com/licenses/mit/)
