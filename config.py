@@ -1,8 +1,5 @@
 import os
 
-
-
-
 class Config:
     debug = True
     SECRET_KEY = os.environ.get('SECRET_KEY')
@@ -25,7 +22,7 @@ class ProdConfig(Config):
     Args:
         Config: The parent configuration class with General configuration settings
     '''
-    # SQLALCHEMY_DATABASE_URI = os.environ.get("SQLALCHEMY_DATABASE_URI")
+    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL').replace("://", "ql://", 1)
    
 class TestConfig(Config):
        TESTING = True
