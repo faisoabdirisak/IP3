@@ -30,7 +30,7 @@ This is a Python-Flask Application that allows users to create one minute pitch.
 ## Technologies Used
 
 * python3.9
-* flask application
+* flask application cli
 * Bootsrap
 * HTML
 * CSS
