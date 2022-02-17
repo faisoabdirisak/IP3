@@ -27,3 +27,10 @@ This is a Python-Flask Application that allows users to create one minute pitch.
 
 * code . or atom . based on the text editor you have.
 
+## Technologies Used
+
+* python3.9
+* flask application
+* Bootsrap
+* HTML
+* CSS
