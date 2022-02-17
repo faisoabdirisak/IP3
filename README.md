@@ -63,8 +63,8 @@ SOFTWARE.
 # contacts
 You can reach me through
 
-<!-- email: faisoabdirisak@gmail.com
-phone number: +254700293918 -->
+email: faisoabdirisak@gmail.com
+phone number: +254700293918
 
 ©️ Faiso Abdirisak, Moringa school independent project.
 
